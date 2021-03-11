@@ -1,1 +1,10 @@
-# snake-game
+#### EN
+
+# Snake game
+
+
+
+#### PT
+
+# Jogo da Cobrinha
+
